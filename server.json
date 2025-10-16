@@ -1,3 +1,213 @@
 {
-    "schedules": []
+    "schedules": [
+        {
+            "id": "2510161130",
+            "clientName": "Tanjiro Kamado",
+            "petName": "Hinoko 🦊",
+            "phone": "(11) 93425-1089",
+            "description": "Banho com essência de ervas e escovação antichamas.",
+            "when": "2025-10-16T14:30:00.000Z"
+        },
+        {
+            "id": "2510161200",
+            "clientName": "Nezuko Kamado",
+            "petName": "Momo 🐰",
+            "phone": "(11) 90000-0001",
+            "description": "Tosa bebê e laço temático de bambu rosa.",
+            "when": "2025-10-16T15:00:00.000Z"
+        },
+        {
+            "id": "2510161600",
+            "clientName": "Zenitsu Agatsuma",
+            "petName": "Pika-pika 🐥",
+            "phone": "(11) 90000-0002",
+            "description": "Corte de penas elétrico + banho calmante com camomila.",
+            "when": "2025-10-16T19:00:00.000Z"
+        },
+        {
+            "id": "2510161800",
+            "clientName": "Inosuke Hashibira",
+            "petName": "Kabuto 🐗",
+            "phone": "(11) 90000-0003",
+            "description": "Spa de lama e escovação selvagem (necessário reforço de equipe 🫣)",
+            "when": "2025-10-16T21:00:00.000Z"
+        },
+        {
+            "id": "2510162000",
+            "clientName": "Shinobu Kocho",
+            "petName": "Aya 🦋",
+            "phone": "(11) 90000-0004",
+            "description": "Manutenção de asas e banho aromático com fragrância de lavanda.",
+            "when": "2025-10-16T23:00:00.000Z"
+        },
+        {
+            "id": "2510161400",
+            "clientName": "Kyojuro Rengoku",
+            "petName": "Enko 🐈‍⬛",
+            "phone": "(11) 90000-0005",
+            "description": "Banho flamejante + hidratação de pelos com óleo de girassol.",
+            "when": "2025-10-16T17:00:00.000Z"
+        },
+        {
+            "id": "2510161230",
+            "clientName": "Obanai Iguro",
+            "petName": "Shirohebi 🐍",
+            "phone": "(11) 90000-0006",
+            "description": "Polimento de escamas e banho morno com essência de bambu.",
+            "when": "2025-10-16T15:30:00.000Z"
+        },
+        {
+            "id": "2510170900",
+            "clientName": "Tony Stark",
+            "petName": "Dummy Jr. 🤖",
+            "description": "Polimento de chassis e atualização de software de latido.",
+            "when": "2025-10-17T12:00:00.000Z"
+        },
+        {
+            "id": "2510171030",
+            "clientName": "Steve Rogers",
+            "petName": "Bucky 🐕",
+            "description": "Banho patriótico com shampoo de maçã e tosa higiênica.",
+            "when": "2025-10-17T13:30:00.000Z"
+        },
+        {
+            "id": "2510171400",
+            "clientName": "Thor Odinson",
+            "petName": "Trovão 🐈",
+            "description": "Escovação antiestática para pelos longos e corte de garras.",
+            "when": "2025-10-17T17:00:00.000Z"
+        },
+        {
+            "id": "2510171630",
+            "clientName": "Natasha Romanoff",
+            "petName": "Spyder 🕷️",
+            "description": "Adestramento furtivo e banho a seco para não deixar rastros.",
+            "when": "2025-10-17T19:30:00.000Z"
+        },
+        {
+            "id": "2510171800",
+            "clientName": "Bruce Banner",
+            "petName": "Hulk (quando calmo) 🐢",
+            "description": "Banho relaxante com cromoterapia. (Obs: Não assustar!)",
+            "when": "2025-10-17T21:00:00.000Z"
+        },
+
+        // ===== SÁBADO, 18/10/2025 - TEMA: THE LAST OF US =====
+        {
+            "id": "2510180930",
+            "clientName": "Ellie Williams",
+            "petName": "Estalinho 🍄",
+            "description": "Tosa de sobrevivência e banho antifúngico especial.",
+            "when": "2025-10-18T12:30:00.000Z"
+        },
+        {
+            "id": "2510181100",
+            "clientName": "Joel Miller",
+            "petName": "Café 🐴",
+            "description": "Escovação e hidratação de crina com óleo de café.",
+            "when": "2025-10-18T14:00:00.000Z"
+        },
+        {
+            "id": "2510181500",
+            "clientName": "Abby Anderson",
+            "petName": "Atlas  Rottweiler",
+            "description": "Treino de agilidade e banho fortificante com proteína.",
+            "when": "2025-10-18T18:00:00.000Z"
+        },
+        {
+            "id": "2510181730",
+            "clientName": "Dina",
+            "petName": "Shimmer 🐐",
+            "description": "Aparar cascos e penteado com tranças e fitas coloridas.",
+            "when": "2025-10-18T20:30:00.000Z"
+        },
+
+        // ===== DOMINGO, 19/10/2025 - TEMA: POKÉMON =====
+        {
+            "id": "2510191000",
+            "clientName": "Ash Ketchum",
+            "petName": "Pikachu ⚡️",
+            "description": "Banho energizante e check-up de bochechas elétricas.",
+            "when": "2025-10-19T13:00:00.000Z"
+        },
+        {
+            "id": "2510191130",
+            "clientName": "Misty",
+            "petName": "Psyduck 🦆",
+            "description": "Hidromassagem para alívio de dor de cabeça e polimento de bico.",
+            "when": "2025-10-19T14:30:00.000Z"
+        },
+        {
+            "id": "2510191430",
+            "clientName": "Brock",
+            "petName": "Onix 🗿",
+            "description": "Esfoliação de pedras e banho a seco (muito a seco!).",
+            "when": "2025-10-19T17:30:00.000Z"
+        },
+        {
+            "id": "2510191600",
+            "clientName": "Jessie (Equipe Rocket)",
+            "petName": "Meowth 😼",
+            "description": "Banho e escovação. (Obs: Cuidado com a moeda da testa).",
+            "when": "2025-10-19T19:00:00.000Z"
+        },
+        {
+            "id": "2510191700",
+            "clientName": "James (Equipe Rocket)",
+            "petName": "Koffing 💨",
+            "description": "Banho de espuma com neutralizador de odores.",
+            "when": "2025-10-19T20:00:00.000Z"
+        },
+        {
+            "id": "2510191800",
+            "clientName": "Enfermeira Joy",
+            "petName": "Chansey 🥚",
+            "description": "Check-up geral e hidratação de bolsa.",
+            "when": "2025-10-19T21:00:00.000Z"
+        },
+
+        // ===== SEGUNDA-FEIRA, 20/10/2025 - TEMA: HARRY POTTER =====
+        {
+            "id": "2510200900",
+            "clientName": "Harry Potter",
+            "petName": "Edwiges 🦉",
+            "description": "Limpeza e polimento de penas, entrega de petisco premium.",
+            "when": "2025-10-20T12:00:00.000Z"
+        },
+        {
+            "id": "2510201030",
+            "clientName": "Hermione Granger",
+            "petName": "Bichento 🐈",
+            "description": "Banho, escovação intensa de pelos longos e desembarace mágico.",
+            "when": "2025-10-20T13:30:00.000Z"
+        },
+        {
+            "id": "2510201300",
+            "clientName": "Rony Weasley",
+            "petName": "Perebas 🐀",
+            "description": "Check-up de saúde e banho anti-pulgas (por precaução).",
+            "when": "2025-10-20T16:00:00.000Z"
+        },
+        {
+            "id": "2510201530",
+            "clientName": "Draco Malfoy",
+            "petName": "Avis 🐍",
+            "description": "Polimento de escamas com produto importado e essência de maçã verde.",
+            "when": "2025-10-20T18:30:00.000Z"
+        },
+        {
+            "id": "2510201700",
+            "clientName": "Hagrid",
+            "petName": "Canino 🐕",
+            "description": "Banho e tosa gigante (necessário agendar 3 horários).",
+            "when": "2025-10-20T20:00:00.000Z"
+        },
+        {
+            "id": "2510201800",
+            "clientName": "Alvo Dumbledore",
+            "petName": "Fawkes 🐦🔥",
+            "description": "Manutenção de plumagem e banho de cinzas especial.",
+            "when": "2025-10-20T21:00:00.000Z"
+        }
+    ]
 }
