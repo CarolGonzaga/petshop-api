@@ -91,8 +91,6 @@
             "description": "Banho relaxante com cromoterapia. (Obs: Não assustar!)",
             "when": "2025-10-17T21:00:00.000Z"
         },
-
-        // ===== SÁBADO, 18/10/2025 - TEMA: THE LAST OF US =====
         {
             "id": "2510180930",
             "clientName": "Ellie Williams",
@@ -121,8 +119,6 @@
             "description": "Aparar cascos e penteado com tranças e fitas coloridas.",
             "when": "2025-10-18T20:30:00.000Z"
         },
-
-        // ===== DOMINGO, 19/10/2025 - TEMA: POKÉMON =====
         {
             "id": "2510191000",
             "clientName": "Ash Ketchum",
@@ -165,8 +161,6 @@
             "description": "Check-up geral e hidratação de bolsa.",
             "when": "2025-10-19T21:00:00.000Z"
         },
-
-        // ===== SEGUNDA-FEIRA, 20/10/2025 - TEMA: HARRY POTTER =====
         {
             "id": "2510200900",
             "clientName": "Harry Potter",
